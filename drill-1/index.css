@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    box-sizing: border-box;
+    height: 20vh;
+    background-color: rgb(78, 78, 78);
+}
+
+footer {
+    height: 10vh;
+    background-color:  rgb(34, 34, 34);
+    margin: 0px 20vw 0px 20vw;
+}
+
+section {
+    height: 70vh;
+    background-color: white;
+    margin: 0px 20vw 0px 20vw;
+}
+
+body {
+    background-color: rgb(233, 233, 233);
+}

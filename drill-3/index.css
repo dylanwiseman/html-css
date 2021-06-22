@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 10vh;
+    background-color:lightgray;
+    padding: 1em;
+}
+
+.box {
+    height: 90%;
+    width: 10%;
+    background-color:rgb(7, 140, 223);
+}
+
+.one {
+    padding: 1em;
+    height: 25vh;
+}
+
+p {
+    margin: 1.5em;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.two {
+    height: 15vh;
+    background-color:rgb(7, 140, 223);
+}
+
+.three {
+    height: 14vh;
+    background-color:rgb(7, 223, 158);
+}
+.four {
+    height: 13vh;
+    background-color:rgb(202, 238, 105);
+}
+footer {
+    height: 13vh;
+    background-color:rgb(255, 251, 0);
+}
